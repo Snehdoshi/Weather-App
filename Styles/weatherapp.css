@@ -96,3 +96,24 @@ body {
   font-size: 28px;
   margin-top: -6px;
 }
+
+.weather {
+  display: none;
+} 
+
+.error {
+  display: none;
+  color: #ff4d4d;
+  background: rgba(241, 9, 9, 0.368);
+  
+  padding: 10px 14px;
+  margin-top: 12px;
+  margin-left: 0;
+  font-size: 15px;
+  font-weight: 800 ;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+  animation: fadeIn 0.3s ease-in-out;
+  backdrop-filter: blur(4px);
+}
