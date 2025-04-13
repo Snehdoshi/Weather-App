@@ -13,7 +13,7 @@ A clean and responsive Weather App built using **HTML**, **CSS**, and **JavaScri
 - 🔁 Toggle between **Celsius and Fahrenheit**
 - ⚠️ Handles invalid or empty input gracefully
 - 📱 Fully responsive for all screen sizes
-- 🔄 Real-time weather data using the **API*
+- 🔄 Real-time weather data using the *API*
 
 ---
 
